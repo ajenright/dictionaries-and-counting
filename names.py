@@ -3,7 +3,7 @@
 names = {}
 
 
-names['Enright'] = 'Enright'
+names['Enright'] = 'Aaron'
 names['Gill'] = 'Molly'
 
 while True:

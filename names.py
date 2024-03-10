@@ -3,8 +3,8 @@
 names = {}
 
 
-names['Wash'] = 'Rick'
-names['Chen'] = 'Mickey'
+names['Enright'] = 'Enright'
+names['Gill'] = 'Molly'
 
 while True:
     last_name = input("Enter a student's last name: ")

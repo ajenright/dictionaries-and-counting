@@ -1,1 +1,1 @@
-This is the lab for week 7 in MI 250
+This is the lab for week 7 in LIS 875.
